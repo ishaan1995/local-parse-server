@@ -11,7 +11,8 @@ Own Parse-server that runs on node.js
 * Run the server with: `npm start`
 * By default it will use a path of /parse for the API routes.  To change this, or use older client SDKs, run `export PARSE_MOUNT=/1` before launching the server.
 * You now have a database named "dev" that contains your Parse data
-* 
+* install npm package express --> sudo npm install express --save
+* install npm package parse-server --> sudo npm install parse-server
 
 ### Using it
 
